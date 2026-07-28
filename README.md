@@ -45,7 +45,7 @@ portf-web/
 
 **Ozieru Emmanuel**
 
-- GitHub: https://github.com/eoziervianny
+- GitHub: https://github.com/eozieruvianny
 - LinkedIn: https://www.linkedin.com/in/emmanuel-ozieru-98b08930a
 
 ## License
